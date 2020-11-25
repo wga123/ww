@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/aop" location="$USER_HOME$/Desktop/spring/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Desktop/spring/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/Desktop/spring/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc" location="$USER_HOME$/Desktop/spring/spring-mvc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="$USER_HOME$/Desktop/spring/spring-tx-4.2.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
